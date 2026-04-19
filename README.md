@@ -13,7 +13,7 @@ This is my personal portfolio website created using HTML and CSS.
 
 ## Live Website
 You can view the website here:
-https://github.com/saramz4500-spec/portfolio.git
+https://saramz4500-spec.github.io/portfolio/
 
 ## Author
 Sara Alzahrani
