@@ -535,3 +535,52 @@ body{
     text-align:center;
   }
 }
+
+@media (max-width:768px){
+  body{
+    background:linear-gradient(135deg,#18113a,#2c1f63,#5b2d39);
+  }
+
+  .bg-shape{
+    display:none;
+  }
+
+  .glass-box,
+  .timeline-item,
+  .skill-card,
+  .project-card,
+  .activity-item,
+  .contact-box,
+  .hero-card{
+    background:rgba(20,20,35,.45);
+    border:1px solid rgba(255,255,255,.12);
+    backdrop-filter:none;
+  }
+
+  .hero-description,
+  .glass-box p,
+  .timeline-item p,
+  .skill-card p,
+  .project-content p,
+  .activity-item,
+  .contact-box p,
+  .hero-card p,
+  .nav-links a{
+    color:#f3f3f3;
+  }
+
+  .section-title h2,
+  .hero-text h1{
+    color:#fff;
+    -webkit-text-fill-color:unset;
+    background:none;
+  }
+
+  .small-title,
+  .logo,
+  .section-title span,
+  .skill-card h3,
+  .hero-card h3{
+    color:#ffcf8a;
+  }
+}
