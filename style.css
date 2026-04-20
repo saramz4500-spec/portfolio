@@ -480,6 +480,11 @@ body{
 }
 
 @media (max-width:768px){
+  
+  body{
+  background:linear-gradient(135deg,var(--bg-dark),var(--bg-mid),#0d4f87);
+}
+  
   .hero{
     padding:24px 6%;
   }
