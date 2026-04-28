@@ -31,7 +31,7 @@ html{
 }
 
 body{
-  font-family:Arial,sans-serif;
+  font-family:Georgia;
   background:linear-gradient(135deg,var(--bg-dark),var(--bg-mid),#0d4f87);
   color:var(--text-main);
   line-height:1.6;
